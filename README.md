@@ -101,7 +101,3 @@ Hi, I’m **Rishu Anand**, an engineering student passionate about data analytic
 
 📬 Email: anandrishu71@gmail.com  
 
-
----
-
-Would you like me to format this into a polished README.md file or generate a dashboard preview image next? I can also help you write a LinkedIn post or GitHub description that grabs recruiter attention.
